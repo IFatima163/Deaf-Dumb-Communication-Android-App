@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1066862206526",
+    "firebase_url": "https://deaf-and-dumb-communicat-24e4c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "deaf-and-dumb-communicat-24e4c",
+    "storage_bucket": "deaf-and-dumb-communicat-24e4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066862206526:android:5460e1911e56fdfc5abb6f",
+        "android_client_info": {
+          "package_name": "com.softic.deafanddumbcommunication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJD9nNu2M8B1jCPCsJatHFttzQgXMS-Eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
